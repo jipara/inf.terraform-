@@ -1,7 +1,7 @@
 Name          = "jenkins"
 Env           = "dev"
 Dept          = "IT"
-Create_by     = "Jipara"
+Created_by    = "Jipara"
 vpc           = "vpc-78e9f710"
 ami           = "ami-0d8f6eb4f641ef691"
 instance_type = "t2.micro"

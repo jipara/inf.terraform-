@@ -1,9 +1,7 @@
 variable "Name" {}
 variable "Created_by" {}
 
-variable "Dept" {
-
-}
+variable "Dept" {}
 variable "Env" {
 
 }
