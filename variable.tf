@@ -25,6 +25,10 @@ variable "ami" {
 variable "record" {
 
 }
+variable "instance_type" {
+
+}
+
 
 
 
